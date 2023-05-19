@@ -1,0 +1,36 @@
+header {
+	background-color: rgb(64, 184, 90);
+	color: #fff;
+	padding: 20px;
+}
+nav ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+nav li {
+	display: inline-block;
+	margin: 0 10px;
+}
+nav li a {
+	color: rgb(199, 249, 255);
+	text-decoration: none;
+}
+img {
+	display: block;
+	margin: 20px auto;
+	max-width: 100%;
+}
+table {
+	border-collapse: collapse;
+	margin: 20px auto;
+}
+th, td {
+	padding: 10px;
+	border: 1px solid rgb(223, 132, 132);
+	text-align: center;
+}
+th {
+	background-color: #ccf3ff;
+	font-weight: bold;
+}
